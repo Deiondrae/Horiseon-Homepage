@@ -1,1 +1,2 @@
-# Code Refactor Starter Code
+"Horiseon" provided a codebase that was not up to accessibility standards that needed to be refactored. I organized html elements to follow semantic structure so that the code meets accessibility standards for the user and to make further refactoring easier. I ensured all the links were functioning correctly and also consolidated superfluous CSS selectors and properties. I included comments on both the html and css for easier navigation.
+The images used all seem to be stock images and as such they were given blank alt attributes so that screen readers will skip over the content of the images.
